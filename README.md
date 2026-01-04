@@ -1,6 +1,6 @@
 # 🎙️ Live Meeting Summarizer
 
-An User-friendly application for real-time transcription, speaker identification, and meeting summarization. Featuring a modern Glassmorphism UI, PDF export, and email integration.
+An AI-powered application for real-time transcription, speaker identification, and meeting summarization. Featuring a modern Glassmorphism UI, PDF export, and email integration.
 
 ## ✨ Features
 - **Dual Recording Modes**: Browser-based recording for cloud stability and Local Microphone for real-time feedback.
@@ -18,8 +18,8 @@ Ensure you have Python 3.9+ installed and `ffmpeg` setup on your system.
 
 ### 2. Installation
 ```bash
-git clone https://github.com/Username/Repo.git
-cd Repo
+git clone https://github.com/160624733191-VS/INFOSYS_PROJECT.git
+cd INFOSYS_PROJECT
 pip install -r requirements.txt
 ```
 
