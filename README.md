@@ -1,6 +1,6 @@
 # 🎙️ Live Meeting Summarizer
 
-An AI-powered application for real-time transcription, speaker identification, and meeting summarization. Featuring a modern Glassmorphism UI, PDF export, and email integration.
+An User-friendly application for real-time transcription, speaker identification, and meeting summarization. Featuring a modern Glassmorphism UI, PDF export, and email integration.
 
 ## ✨ Features
 - **Dual Recording Modes**: Browser-based recording for cloud stability and Local Microphone for real-time feedback.
