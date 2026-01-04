@@ -18,8 +18,8 @@ Ensure you have Python 3.9+ installed and `ffmpeg` setup on your system.
 
 ### 2. Installation
 ```bash
-git clone https://github.com/160624733191-VS/INFOSYS_PROJECT.git
-cd INFOSYS_PROJECT
+git clone https://github.com/Username/Repo.git
+cd Repo
 pip install -r requirements.txt
 ```
 
