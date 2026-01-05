@@ -232,8 +232,8 @@ This project demonstrates:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [Maru8735/acoustic-cognition](https://github.com/Maru8735)
-- **Demo:** [acoustic-cognition.streamlit.app](https://acoustic-mind.streamlit.app/)
+- **GitHub:** [Varshini-1203/livemeetingssummarizer][]
+- **Demo:** [livemeetingssummarizer.streamlit.app](https://livemeetingssummarizer.streamlit.app)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
 ---
