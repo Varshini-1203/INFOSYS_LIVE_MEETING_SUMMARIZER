@@ -20,8 +20,8 @@ live meetings summarizer is an **agentic AI system** designed to crystallize eph
 
 ### Installation
 ```bash
-git clone https://github.com/160624733191-VS/INFOSYS_PROJECT.git
-cd INFOSYS_PROJECT
+git clone https://github.com/Varshini-1203/INFOSYS_AI_LIVE_MEETING_SUMMARIZER.git
+cd INFOSYS_AI_LIVE_MEETING_SUMMARIZER
 pip install -r requirements.txt
 ```
 ### Local Deployment
