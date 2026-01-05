@@ -1,4 +1,4 @@
-# 📋 Implementation Guide: Acoustic Cognition v1.0
+# 📋 Implementation Guide: livemeetingssummarizer 
 
 **Version:** 1.0 | **Status:** Production Ready | **Last Updated:** Jan 2026
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Executive Summary
 
-Acoustic Cognition is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
+live meetings summarizer is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
 
 **Key Metrics:**
 - **WER (Word Error Rate):** < 15% (Benchmark: AMI Corpus)
@@ -20,18 +20,17 @@ Acoustic Cognition is an **agentic AI system** designed to crystallize ephemeral
 
 ### Installation
 ```bash
-git clone https://github.com/Maru8735/acoustic-cognition.git
-cd acoustic-cognition
+git clone https://github.com/160624733191-VS/INFOSYS_PROJECT.git
+cd INFOSYS_PROJECT
 pip install -r requirements.txt
 ```
-
 ### Local Deployment
 ```bash
 streamlit run app.py
 ```
 
 ### Cloud Deployment
-Deployed on **Streamlit Cloud** at: [https://acoustic-cognition.streamlit.app](https://acoustic-cognition.streamlit.app)
+Deployed on **Streamlit Cloud** at: [https://livemeetingssummarizer.streamlit.app](https://livemeetingssummarizer.streamlit.app)
 
 ---
 
@@ -39,7 +38,7 @@ Deployed on **Streamlit Cloud** at: [https://acoustic-cognition.streamlit.app](h
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    ACOUSTIC COGNITION v1.0                      │
+│                    live meeting summarizer                      │
 │                 (Agentic Audio Intelligence)                    │
 └─────────────────────────────────────────────────────────────────┘
                               │
@@ -191,7 +190,7 @@ Timestamped, diarized transcripts for court proceedings.
 - [ ] Configure SMTP credentials for email export
 - [ ] Run local tests: `python -m pytest tests/`
 - [ ] Deploy to Streamlit Cloud via GitHub integration
-- [ ] Validate live demo at `acoustic-cognition.streamlit.app`
+- [ ] Validate live demo at `livemeetingsummarizer.streamlit.app`
 - [ ] Monitor performance metrics in Streamlit logs
 
 ---
@@ -232,7 +231,7 @@ This project demonstrates:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [Varshini-1203/livemeetingssummarizer][]
+- **GitHub:** [Varshini-1203/livemeetingssummarizer][https://github.com/Varshini-1203]
 - **Demo:** [livemeetingssummarizer.streamlit.app](https://livemeetingssummarizer.streamlit.app)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
