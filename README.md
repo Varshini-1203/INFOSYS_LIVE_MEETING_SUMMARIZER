@@ -1,4 +1,4 @@
-# 📋 Implementation Guide: livemeetingssummarizer 
+# 📋 Implementation Guide: voxlyra
 
 **Version:** 1.0 | **Status:** Production Ready | **Last Updated:** Jan 2026
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Executive Summary
 
-live meetings summarizer is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
+voxlyra is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
 
 **Key Metrics:**
 - **WER (Word Error Rate):** < 15% (Benchmark: AMI Corpus)
@@ -30,7 +30,7 @@ streamlit run app.py
 ```
 
 ### Cloud Deployment
-Deployed on **Streamlit Cloud** at: [https://livemeetingssummarizer.streamlit.app](https://livemeetingssummarizer.streamlit.app)
+Deployed on **Streamlit Cloud** at: [https://voxlyra.streamlit.app](https://voxlyra.streamlit.app)
 
 ---
 
@@ -38,7 +38,7 @@ Deployed on **Streamlit Cloud** at: [https://livemeetingssummarizer.streamlit.ap
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    live meeting summarizer                      │
+│                           voxlyra                               │
 │                 (Agentic Audio Intelligence)                    │
 └─────────────────────────────────────────────────────────────────┘
                               │
@@ -190,7 +190,7 @@ Timestamped, diarized transcripts for court proceedings.
 - [ ] Configure SMTP credentials for email export
 - [ ] Run local tests: `python -m pytest tests/`
 - [ ] Deploy to Streamlit Cloud via GitHub integration
-- [ ] Validate live demo at `livemeetingsummarizer.streamlit.app`
+- [ ] Validate live demo at `voxlyra.streamlit.app`
 - [ ] Monitor performance metrics in Streamlit logs
 
 ---
@@ -231,8 +231,8 @@ This project demonstrates:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [Varshini-1203/livemeetingssummarizer][https://github.com/Varshini-1203]
-- **Demo:** [livemeetingssummarizer.streamlit.app](https://livemeetingssummarizer.streamlit.app)
+- **GitHub:** [Varshini-1203/voxlyra][https://github.com/Varshini-1203]
+- **Demo:** [voxlyra.streamlit.app](https://voxlyra.streamlit.app)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
 ---
