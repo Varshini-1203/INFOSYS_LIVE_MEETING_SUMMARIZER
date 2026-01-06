@@ -1,4 +1,4 @@
-# 📋 Implementation Guide: voxlyra
+# 📋 Implementation Guide: voxlyra aurix
 
 **Version:** 1.0 | **Status:** Production Ready | **Last Updated:** Jan 2026
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Executive Summary
 
-voxlyra is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
+voxlyra aurix is an **agentic AI system** designed to crystallize ephemeral speech into queryable, structured intelligence. It combines multithreaded I/O orchestration with hybrid inference engines to deliver real-time meeting transcription, multi-speaker attribution, and intelligent summarization in a production-grade package.
 
 **Key Metrics:**
 - **WER (Word Error Rate):** < 15% (Benchmark: AMI Corpus)
@@ -30,7 +30,7 @@ streamlit run app.py
 ```
 
 ### Cloud Deployment
-Deployed on **Streamlit Cloud** at: [https://voxlyra.streamlit.app](https://voxlyra.streamlit.app)
+Deployed on **Streamlit Cloud** at: [https://voxlyra-aurix.streamlit.app](https://voxlyra-aurix.streamlit.app)
 
 ---
 
@@ -38,7 +38,7 @@ Deployed on **Streamlit Cloud** at: [https://voxlyra.streamlit.app](https://voxl
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                           voxlyra                               │
+│                          voxlyra aurix                          │
 │                 (Agentic Audio Intelligence)                    │
 └─────────────────────────────────────────────────────────────────┘
                               │
@@ -190,7 +190,7 @@ Timestamped, diarized transcripts for court proceedings.
 - [ ] Configure SMTP credentials for email export
 - [ ] Run local tests: `python -m pytest tests/`
 - [ ] Deploy to Streamlit Cloud via GitHub integration
-- [ ] Validate live demo at `voxlyra.streamlit.app`
+- [ ] Validate live demo at `voxlyra aurix.streamlit.app`
 - [ ] Monitor performance metrics in Streamlit logs
 
 ---
@@ -231,8 +231,8 @@ This project demonstrates:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [Varshini-1203/voxlyra][https://github.com/Varshini-1203]
-- **Demo:** [voxlyra.streamlit.app](https://voxlyra.streamlit.app)
+- **GitHub:** [Varshini-1203/voxlyra-aurix][https://github.com/Varshini-1203]
+- **Demo:** [voxlyra-aurix.streamlit.app](https://voxlyra-aurix.streamlit.app)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
 ---
